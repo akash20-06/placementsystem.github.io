@@ -1,2 +1,2 @@
-# placementsystem.github.io
- PLACEMENT MANAGEMENT SYSTEM
+# DBMS-Mini-Project
+College Placement Management System
